@@ -1,0 +1,11 @@
+commit 17e6b467db1218482f721b59205a68d48765a9d2
+Author: Roman2501 <kushla2501@gmail.com>
+Date:   Sat Sep 5 15:57:44 2020 +0300
+
+    ignorowane .docx
+
+commit a46ea0d79fed221605a4d22b3565c972b0a8362c
+Author: Roman2501 <kushla2501@gmail.com>
+Date:   Sat Sep 5 15:54:06 2020 +0300
+
+    ciuchcia
